@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myactivity</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+</resources>
